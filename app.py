@@ -4,7 +4,7 @@ import numpy as np
 
 model = pickle.load(open(r"naval.pkl", 'rb'))
 
-st.title('Epm Value Predictor')
+st.title('CBM naval Predictor')
 
 cols = []
 
